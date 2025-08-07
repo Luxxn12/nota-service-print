@@ -189,14 +189,6 @@ export default function ReceiptPreview({
               {/* Refined Stamp Placeholder */}
               <p className="text-gray-700 mt-20  font-medium">Signature</p>
               <Image
-                src="/coplogo.png"
-                alt="Refined Logo"
-                width={200}
-                height={100}
-                className="w-40 h-4w-40 print:w-25 print:h-25 absolute top-0 left-1/2 -translate-x-1/2 opacity-30 z-10"
-              />
-
-              <Image
                 src="/TTD.png"
                 alt="ttd"
                 width={200}
